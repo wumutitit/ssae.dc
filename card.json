@@ -1,0 +1,42 @@
+{
+    "KRNSVG_C": [
+        {
+            "name": "<:ac_emblem:1086608258464235540> **JAEHYUN `Vocal` Try Again**",
+            "image": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81pGjk7C_B_kZcE-ehvQmZwdnRkLe97PXgkvED0phR2tYIGyt68dO7iG0hAjn05S1s6iwqH_ggRVEXaTeiT1_xa5uzefgg=s2560",
+            "theme": "Try Again",
+            "inv": "<:ac_emblem:1086608258464235540> Try Again"
+        }
+    ],
+    "KRNSVG_B": [
+        {
+            "name": "<:ab_emblem:1086608394401620110> **JAEHYUN `Vocal` Try Again**",
+            "image": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81rtV87fCdXZS2wg-J3fu7pAh_mYRJhmynIzvDj8Lm9AfW96G1YVVLAWs6fuQ9awDgfakWODmqASA9RdQOxuipdEKiO1Bg=s2560",
+            "theme": "Try Again",
+            "inv": "<:B_LOGO:1089020310508015626> Try Again"
+        }
+    ],
+    "KRNSVG_A": [
+        {
+            "name": "<:emblem_a:1094386551212998778> **JAEHYUN `Vocal` Try Again**",
+            "image": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81oPn6x6kaQigxzpjhYOLP-urGfv3JCYm5_HtwqODb6r5MnF4aMl7qs0htgLbCdK9pfTAB77F5zT6Yg6bw2DJFTwV_lsWg=s2560",
+            "theme": "Try Again",
+            "inv": "<:emblem_a:1094386551212998778> Try Again"
+        }
+    ],
+    "KRNSVG_S": [
+        {
+            "name": "<:emblem_s:1094387291784495134> **JAEHYUN `Vocal` Try Again**",
+            "image": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81rHIyJ-LaM_qXPCCW6_AmsO1fIDGV1coAn9GurWD5QbH1_MACStgOqtEgglaWPShVxxoDP6hqdORdCC_OF_csWmc3CV0Q=s2560",
+            "theme": "Try Again",
+            "inv": "<:emblem_s:1094387291784495134> Try Again"
+        }
+    ],
+    "KRNSVG_R": [
+        {
+            "name": "<:emblem_r:1094387478313570314> **JAEHYUN `Vocal` Try Again**",
+            "image": "https://lh3.googleusercontent.com/drive-viewer/AFGJ81r80r_-8enPZ1Kk5AA6mIKvie5gJI6lf2wN5lmQ7xRE6WKw2UbPZllpv6JkH0z5Bz6LmLW99AQPCuNiAIKMxB6_EzfY=s2560",
+            "theme": "Try Again",
+            "inv": "<:emblem_r:1094387478313570314> Try Again"
+        }
+    ]
+}
