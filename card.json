@@ -34,7 +34,127 @@
     "KRNSVG_R": [
         {
             "name": "<:r_grade:1126649980296380457> **KARINA SAVAGE**",
-            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/savage/%EC%82%AC%EB%B9%84%EC%A7%80_savage/KRR.png?format=png",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/savage/KR_R.png?format=png",
+            "theme": "SAVAGE",
+            "inv": "<:r_grade:1126649980296380457> SAVAGE"
+        }
+    ],
+    "WNTSVG_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **KARINA SAVAGE**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/savage/%EC%82%AC%EB%B9%84%EC%A7%80_savage/KRC.png?format=png",
+            "theme": "SAVAGE",
+            "inv": "<:c_grade:1126649406230384671> SAVAGE"
+        }
+    ],
+    "WNTSVG_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **KARINA SAVAGE**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/savage/%EC%82%AC%EB%B9%84%EC%A7%80_savage/KRB.png?format=png",
+            "theme": "SAVAGE",
+            "inv": "<:b_grade:1126649508089057352> SAVAGE"
+        }
+    ],
+    "WNTSVG_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **KARINA SAVAGE**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/savage/%EC%82%AC%EB%B9%84%EC%A7%80_savage/KRA.png?format=png",
+            "theme": "SAVAGE",
+            "inv": "<:a_grade:1126649781272461413> SAVAGE"
+        }
+    ],
+    "WNTSVG_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **KARINA SAVAGE**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/savage/%EC%82%AC%EB%B9%84%EC%A7%80_savage/KRS.png?format=png",
+            "theme": "SAVAGE",
+            "inv": "<:s_grade:1126649890148196504> SAVAGE"
+        }
+    ],
+    "WNTSVG_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **WINTER SAVAGE**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/savage/WT_R.png?format=png",
+            "theme": "SAVAGE",
+            "inv": "<:r_grade:1126649980296380457> SAVAGE"
+        }
+    ],
+    "GSLSVG_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **KARINA SAVAGE**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/savage/%EC%82%AC%EB%B9%84%EC%A7%80_savage/KRC.png?format=png",
+            "theme": "SAVAGE",
+            "inv": "<:c_grade:1126649406230384671> SAVAGE"
+        }
+    ],
+    "GSLSVG_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **KARINA SAVAGE**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/savage/%EC%82%AC%EB%B9%84%EC%A7%80_savage/KRB.png?format=png",
+            "theme": "SAVAGE",
+            "inv": "<:b_grade:1126649508089057352> SAVAGE"
+        }
+    ],
+    "GSLSVG_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **KARINA SAVAGE**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/savage/%EC%82%AC%EB%B9%84%EC%A7%80_savage/KRA.png?format=png",
+            "theme": "SAVAGE",
+            "inv": "<:a_grade:1126649781272461413> SAVAGE"
+        }
+    ],
+    "GSLSVG_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **KARINA SAVAGE**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/savage/%EC%82%AC%EB%B9%84%EC%A7%80_savage/KRS.png?format=png",
+            "theme": "SAVAGE",
+            "inv": "<:s_grade:1126649890148196504> SAVAGE"
+        }
+    ],
+    "GSLSVG_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **GISELLE SAVAGE**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/savage/GS_R.png?format=png",
+            "theme": "SAVAGE",
+            "inv": "<:r_grade:1126649980296380457> SAVAGE"
+        }
+    ],
+    "NGNSVG_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **KARINA SAVAGE**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/savage/%EC%82%AC%EB%B9%84%EC%A7%80_savage/KRC.png?format=png",
+            "theme": "SAVAGE",
+            "inv": "<:c_grade:1126649406230384671> SAVAGE"
+        }
+    ],
+    "NGNSVG_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **KARINA SAVAGE**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/savage/%EC%82%AC%EB%B9%84%EC%A7%80_savage/KRB.png?format=png",
+            "theme": "SAVAGE",
+            "inv": "<:b_grade:1126649508089057352> SAVAGE"
+        }
+    ],
+    "NGNSVG_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **KARINA SAVAGE**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/savage/%EC%82%AC%EB%B9%84%EC%A7%80_savage/KRA.png?format=png",
+            "theme": "SAVAGE",
+            "inv": "<:a_grade:1126649781272461413> SAVAGE"
+        }
+    ],
+    "NGNSVG_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **KARINA SAVAGE**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/savage/%EC%82%AC%EB%B9%84%EC%A7%80_savage/KRS.png?format=png",
+            "theme": "SAVAGE",
+            "inv": "<:s_grade:1126649890148196504> SAVAGE"
+        }
+    ],
+    "NGNSVG_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **NINGNING SAVAGE**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/savage/NN_R.png?format=png",
             "theme": "SAVAGE",
             "inv": "<:r_grade:1126649980296380457> SAVAGE"
         }
