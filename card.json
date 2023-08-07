@@ -39,7 +39,7 @@
             "inv": "<:r_grade:1126649980296380457> glitter into gold"
         }
     ],
-    "PRISM-GIG_KR_C": [
+    "PRISM_GIG_KR_C": [
         {
             "name": "<:c_grade:1126649406230384671> `Prism` **KARINA glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRKR_C.png?format=png",
@@ -47,7 +47,7 @@
             "inv": "<:c_grade:1126649406230384671> glitter into gold"
         }
     ],
-    "PRISM-GIG_KR_B": [
+    "PRISM_GIG_KR_B": [
         {
             "name": "<:b_grade:1126649508089057352> `Prism` **KARINA glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRKR_B.png?format=png",
@@ -55,7 +55,7 @@
             "inv": "<:b_grade:1126649508089057352> glitter into gold"
         }
     ],
-    "PRISM-GIG_KR_A": [
+    "PRISM_GIG_KR_A": [
         {
             "name": "<:a_grade:1126649781272461413> `Prism` **KARINA glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRKR_A.png?format=png",
@@ -63,7 +63,7 @@
             "inv": "<:a_grade:1126649781272461413> glitter into gold"
         }
     ],
-    "PRISM-GIG_KR_S": [
+    "PRISM_GIG_KR_S": [
         {
             "name": "<:s_grade:1126649890148196504> `Prism` **KARINA glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRKR_S.png?format=png",
@@ -71,7 +71,7 @@
             "inv": "<:s_grade:1126649890148196504> glitter into gold"
         }
     ],
-    "PRISM-GIG_KR_R": [
+    "PRISM_GIG_KR_R": [
         {
             "name": "<:r_grade:1126649980296380457> `Prism` **KARINA glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRKR_R.png?format=png",
@@ -119,7 +119,7 @@
             "inv": "<:r_grade:1126649980296380457> glitter into gold"
         }
     ],
-    "PRISM-GIG_GS_C": [
+    "PRISM_GIG_GS_C": [
         {
             "name": "<:c_grade:1126649406230384671> `Prism` **GISELLE glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRGS_C.png?format=png",
@@ -127,7 +127,7 @@
             "inv": "<:c_grade:1126649406230384671> glitter into gold"
         }
     ],
-    "PRISM-GIG_GS_B": [
+    "PRISM_GIG_GS_B": [
         {
             "name": "<:b_grade:1126649508089057352> `Prism` **GISELLE glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRGS_B.png?format=png",
@@ -135,7 +135,7 @@
             "inv": "<:b_grade:1126649508089057352> glitter into gold"
         }
     ],
-    "PRISM-GIG_GS_A": [
+    "PRISM_GIG_GS_A": [
         {
             "name": "<:a_grade:1126649781272461413> `Prism` **GISELLE glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRGS_A.png?format=png",
@@ -143,7 +143,7 @@
             "inv": "<:a_grade:1126649781272461413> glitter into gold"
         }
     ],
-    "PRISM-GIG_GS_S": [
+    "PRISM_GIG_GS_S": [
         {
             "name": "<:s_grade:1126649890148196504> `Prism` **GISELLE glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRGS_S.png?format=png",
@@ -151,7 +151,7 @@
             "inv": "<:s_grade:1126649890148196504> glitter into gold"
         }
     ],
-    "PRISM-GIG_GS_R": [
+    "PRISM_GIG_GS_R": [
         {
             "name": "<:r_grade:1126649980296380457> `Prism` **GISELLE glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRGS_R.png?format=png",
@@ -199,7 +199,7 @@
             "inv": "<:r_grade:1126649980296380457> glitter into gold"
         }
     ],
-    "PRISM-GIG_WT_C": [
+    "PRISM_GIG_WT_C": [
         {
             "name": "<:c_grade:1126649406230384671> `Prism` **WINTER glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRWT_C.png?format=png",
@@ -207,7 +207,7 @@
             "inv": "<:c_grade:1126649406230384671> glitter into gold"
         }
     ],
-    "PRISM-GIG_WT_B": [
+    "PRISM_GIG_WT_B": [
         {
             "name": "<:b_grade:1126649508089057352> `Prism` **WINTER glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRWT_B.png?format=png",
@@ -215,7 +215,7 @@
             "inv": "<:b_grade:1126649508089057352> glitter into gold"
         }
     ],
-    "PRISM-GIG_WT_A": [
+    "PRISM_GIG_WT_A": [
         {
             "name": "<:a_grade:1126649781272461413> `Prism` **WINTER glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRWT_A.png?format=png",
@@ -223,7 +223,7 @@
             "inv": "<:a_grade:1126649781272461413> glitter into gold"
         }
     ],
-    "PRISM-GIG_WT_S": [
+    "PRISM_GIG_WT_S": [
         {
             "name": "<:s_grade:1126649890148196504> `Prism` **WINTER glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRWT_S.png?format=png",
@@ -231,7 +231,7 @@
             "inv": "<:s_grade:1126649890148196504> glitter into gold"
         }
     ],
-    "PRISM-GIG_WT_R": [
+    "PRISM_GIG_WT_R": [
         {
             "name": "<:r_grade:1126649980296380457> `Prism` **WINTER glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRWT_R.png?format=png",
@@ -279,7 +279,7 @@
             "inv": "<:r_grade:1126649980296380457> glitter into gold"
         }
     ],
-    "PRISM-GIG_NN_C": [
+    "PRISM_GIG_NN_C": [
         {
             "name": "<:c_grade:1126649406230384671> `Prism` **NINGNING glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRNN_C.png?format=png",
@@ -287,7 +287,7 @@
             "inv": "<:c_grade:1126649406230384671> glitter into gold"
         }
     ],
-    "PRISM-GIG_NN_B": [
+    "PRISM_GIG_NN_B": [
         {
             "name": "<:b_grade:1126649508089057352> `Prism` **NINGNING glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRNN_B.png?format=png",
@@ -295,7 +295,7 @@
             "inv": "<:b_grade:1126649508089057352> glitter into gold"
         }
     ],
-    "PRISM-GIG_NN_A": [
+    "PRISM_GIG_NN_A": [
         {
             "name": "<:a_grade:1126649781272461413> `Prism` **NINGNING glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRNN_A.png?format=png",
@@ -303,7 +303,7 @@
             "inv": "<:a_grade:1126649781272461413> glitter into gold"
         }
     ],
-    "PRISM-GIG_NN_S": [
+    "PRISM_GIG_NN_S": [
         {
             "name": "<:s_grade:1126649890148196504> `Prism` **NINGNING glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRNN_S.png?format=png",
@@ -311,7 +311,7 @@
             "inv": "<:s_grade:1126649890148196504> glitter into gold"
         }
     ],
-    "PRISM-GIG_NN_R": [
+    "PRISM_GIG_NN_R": [
         {
             "name": "<:r_grade:1126649980296380457> `Prism` **NINGNING glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRNN_R.png?format=png",
