@@ -318,5 +318,45 @@
             "theme": "glitter into gold",
             "inv": "<:r_grade:1126649980296380457> glitter into gold"
         }
+    ],
+    "PRISM_LTS_NN_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> `Prism` **NINGNING Life's Too Short**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short_2/PRNN_C.png?format=png",
+            "theme": "Life's Too Short",
+            "inv": "<:c_grade:1126649406230384671> Life's Too Short"
+        }
+    ],
+    "PRISM_LTS_NN_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> `Prism` **NINGNING Life's Too Short**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short_2/PRNN_B.png?format=png",
+            "theme": "Life's Too Short",
+            "inv": "<:b_grade:1126649508089057352> Life's Too Short"
+        }
+    ],
+    "PRISM_LTS_NN_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> `Prism` **NINGNING Life's Too Short**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short_2/PRNN_A.png?format=png",
+            "theme": "Life's Too Short",
+            "inv": "<:a_grade:1126649781272461413> Life's Too Short"
+        }
+    ],
+    "PRISM_LTS_NN_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> `Prism` **NINGNING Life's Too Short**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short_2/PRNN_S.png?format=png",
+            "theme": "Life's Too Short",
+            "inv": "<:s_grade:1126649890148196504> Life's Too Short"
+        }
+    ],
+    "PRISM_LTS_NN_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> `Prism` **NINGNING Life's Too Short**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short_2/PRNN_R.png?format=png",
+            "theme": "Life's Too Short",
+            "inv": "<:r_grade:1126649980296380457> Life's Too Short"
+        }
     ]
 }
