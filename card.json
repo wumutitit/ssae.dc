@@ -1,41 +1,81 @@
 {
     "GIG_KR_C": [
         {
-            "name": "<:c_grade:1126649406230384671> **KARINA glitter into gold**",
+            "name": "<:c_grade:1126649406230384671> `Normal` **KARINA glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/KR_C.png?format=png",
             "theme": "glitter into gold",
             "inv": "<:c_grade:1126649406230384671> glitter into gold"
         }
     ],
-    "KRNSVG_B": [
+    "GIG_KR_B": [
         {
-            "name": "<:b_grade:1126649508089057352> **KARINA glitter into gold**",
+            "name": "<:b_grade:1126649508089057352> `Normal` **KARINA glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/KR_B.png?format=png",
             "theme": "glitter into gold",
             "inv": "<:b_grade:1126649508089057352> glitter into gold"
         }
     ],
-    "KRNSVG_A": [
+    "GIG_KR_A": [
         {
-            "name": "<:a_grade:1126649781272461413> **KARINA glitter into gold**",
+            "name": "<:a_grade:1126649781272461413> `Normal` **KARINA glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/KR_A.png?format=png",
             "theme": "glitter into gold",
             "inv": "<:a_grade:1126649781272461413> glitter into gold"
         }
     ],
-    "KRNSVG_S": [
+    "GIG_KR_S": [
         {
-            "name": "<:s_grade:1126649890148196504> **KARINA glitter into gold**",
+            "name": "<:s_grade:1126649890148196504> `Normal` **KARINA glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/KR_S.png?format=png",
             "theme": "glitter into gold",
             "inv": "<:s_grade:1126649890148196504> glitter into gold"
         }
     ],
-    "KRNSVG_R": [
+    "GIG_KR_R": [
         {
-            "name": "<:r_grade:1126649980296380457> **KARINA glitter into gold**",
+            "name": "<:r_grade:1126649980296380457> `Normal` **KARINA glitter into gold**",
             "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/KR_R.png?format=png",
             "theme": "glitter into gold",
             "inv": "<:r_grade:1126649980296380457> glitter into gold"
         }
-    ]
+    ],
+    "PRISM-GIG_KR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> `Prism` **KARINA glitter into gold**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRKR_C.png?format=png",
+            "theme": "glitter into gold",
+            "inv": "<:c_grade:1126649406230384671> glitter into gold"
+        }
+    ],
+    "PRISM-GIG_KR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> `Prism` **KARINA glitter into gold**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRKR_B.png?format=png",
+            "theme": "glitter into gold",
+            "inv": "<:b_grade:1126649508089057352> glitter into gold"
+        }
+    ],
+    "PRISM-GIG_KR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> `Prism` **KARINA glitter into gold**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRKR_A.png?format=png",
+            "theme": "glitter into gold",
+            "inv": "<:a_grade:1126649781272461413> glitter into gold"
+        }
+    ],
+    "PRISM-GIG_KR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> `Prism` **KARINA glitter into gold**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRKR_S.png?format=png",
+            "theme": "glitter into gold",
+            "inv": "<:s_grade:1126649890148196504> glitter into gold"
+        }
+    ],
+    "PRISM-GIG_KR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> `Prism` **KARINA glitter into gold**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/lifes_too_short/PRKR_R.png?format=png",
+            "theme": "glitter into gold",
+            "inv": "<:r_grade:1126649980296380457> glitter into gold"
+        }
+    ],
