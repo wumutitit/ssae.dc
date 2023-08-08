@@ -358,5 +358,44 @@
             "theme": "Life's Too Short",
             "inv": "<:r_grade:1126649980296380457> Life's Too Short"
         }
-    ]
-}
+    ],
+    "BLMB_KR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **KARINA Black Mamba**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/black_mamba/KR_C.png?format=png",
+            "theme": "Black Mamba",
+            "inv": "<:c_grade:1126649406230384671> Black Mamba"
+        }
+    ],
+    "BLMB_KR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **KARINA Black Mamba**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/black_mamba/KR_B.png?format=png",
+            "theme": "Black Mamba",
+            "inv": "<:b_grade:1126649508089057352> Black Mamba"
+        }
+    ],
+    "BLMB_KR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **KARINA Black Mamba**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/black_mamba/KR_A.png?format=png",
+            "theme": "Black Mamba",
+            "inv": "<:a_grade:1126649781272461413> Black Mamba"
+        }
+    ],
+    "BLMB_KR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **KARINA Black Mamba**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/black_mamba/KR_S.png?format=png",
+            "theme": "Black Mamba",
+            "inv": "<:s_grade:1126649890148196504> Black Mamba"
+        }
+    ],
+    "BLMB_KR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **KARINA Black Mamba**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/black_mamba/KR_R.png?format=png",
+            "theme": "Black Mamba",
+            "inv": "<:r_grade:1126649980296380457> Black Mamba"
+        }
+    ],
