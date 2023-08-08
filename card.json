@@ -599,3 +599,84 @@
             "inv": "<:r_grade:1126649980296380457> Next Level"
         }
     ],
+    "NXLV_GS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **GISELLE Next Level**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/next_level/GS_C.png?format=png",
+            "theme": "Next Level",
+            "inv": "<:c_grade:1126649406230384671> Next Level"
+        }
+    ],
+    "NXLV_GS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **GISELLE Next Level**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/next_level/GS_B.png?format=png",
+            "theme": "Next Level",
+            "inv": "<:b_grade:1126649508089057352> Next Level"
+        }
+    ],
+    "NXLV_GS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **GISELLE Next Level**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/next_level/GS_A.png?format=png",
+            "theme": "Next Level",
+            "inv": "<:a_grade:1126649781272461413> Next Level"
+        }
+    ],
+    "NXLV_GS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **GISELLE Next Level**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/next_level/GS_S.png?format=png",
+            "theme": "Next Level",
+            "inv": "<:s_grade:1126649890148196504> Next Level"
+        }
+    ],
+    "NXLV_GS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **GISELLE Next Level**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/next_level/GS_R.png?format=png",
+            "theme": "Next Level",
+            "inv": "<:r_grade:1126649980296380457> Next Level"
+        }
+    ],
+    "NXLV_NN_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **NINGNING Next Level**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/next_level/NN_C.png?format=png",
+            "theme": "Next Level",
+            "inv": "<:c_grade:1126649406230384671> Next Level"
+        }
+    ],
+    "NXLV_NN_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **NINGNING Next Level**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/next_level/NN_B.png?format=png",
+            "theme": "Next Level",
+            "inv": "<:b_grade:1126649508089057352> Next Level"
+        }
+    ],
+    "NXLV_NN_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **NINGNING Next Level**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/next_level/NN_A.png?format=png",
+            "theme": "Next Level",
+            "inv": "<:a_grade:1126649781272461413> Next Level"
+        }
+    ],
+    "NXLV_NN_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **NINGNING Next Level**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/next_level/NN_S.png?format=png",
+            "theme": "Next Level",
+            "inv": "<:s_grade:1126649890148196504> Next Level"
+        }
+    ],
+    "NXLV_NN_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **NINGNING Next Level**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/next_level/NN_R.png?format=png",
+            "theme": "Next Level",
+            "inv": "<:r_grade:1126649980296380457> Next Level"
+        }
+    ]
+}
