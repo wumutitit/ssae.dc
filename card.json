@@ -399,3 +399,124 @@
             "inv": "<:r_grade:1126649980296380457> Black Mamba"
         }
     ],
+    "BLMB_GS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **GISELLE Black Mamba**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/black_mamba/GS_C.png?format=png",
+            "theme": "Black Mamba",
+            "inv": "<:c_grade:1126649406230384671> Black Mamba"
+        }
+    ],
+    "BLMB_GS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **GISELLE Black Mamba**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/black_mamba/GS_B.png?format=png",
+            "theme": "Black Mamba",
+            "inv": "<:b_grade:1126649508089057352> Black Mamba"
+        }
+    ],
+    "BLMB_GS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **GISELLE Black Mamba**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/black_mamba/GS_A.png?format=png",
+            "theme": "Black Mamba",
+            "inv": "<:a_grade:1126649781272461413> Black Mamba"
+        }
+    ],
+    "BLMB_GS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **GISELLE Black Mamba**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/black_mamba/GS_S.png?format=png",
+            "theme": "Black Mamba",
+            "inv": "<:s_grade:1126649890148196504> Black Mamba"
+        }
+    ],
+    "BLMB_GS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **GISELLE Black Mamba**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/black_mamba/GS_R.png?format=png",
+            "theme": "Black Mamba",
+            "inv": "<:r_grade:1126649980296380457> Black Mamba"
+        }
+    ],
+    "BLMB_WT_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **WINTER Black Mamba**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/black_mamba/WT_C.png?format=png",
+            "theme": "Black Mamba",
+            "inv": "<:c_grade:1126649406230384671> Black Mamba"
+        }
+    ],
+    "BLMB_WT_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **WINTER Black Mamba**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/black_mamba/WT_B.png?format=png",
+            "theme": "Black Mamba",
+            "inv": "<:b_grade:1126649508089057352> Black Mamba"
+        }
+    ],
+    "BLMB_WT_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **WINTER Black Mamba**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/black_mamba/WT_A.png?format=png",
+            "theme": "Black Mamba",
+            "inv": "<:a_grade:1126649781272461413> Black Mamba"
+        }
+    ],
+    "BLMB_WT_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **WINTER Black Mamba**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/black_mamba/WT_S.png?format=png",
+            "theme": "Black Mamba",
+            "inv": "<:s_grade:1126649890148196504> Black Mamba"
+        }
+    ],
+    "BLMB_WT_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **WINTER Black Mamba**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/black_mamba/WT_R.png?format=png",
+            "theme": "Black Mamba",
+            "inv": "<:r_grade:1126649980296380457> Black Mamba"
+        }
+    ],
+    "BLMB_NN_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **NINGNING Black Mamba**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/black_mamba/NN_C.png?format=png",
+            "theme": "Black Mamba",
+            "inv": "<:c_grade:1126649406230384671> Black Mamba"
+        }
+    ],
+    "BLMB_NN_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **NINGNING Black Mamba**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/black_mamba/NN_B.png?format=png",
+            "theme": "Black Mamba",
+            "inv": "<:b_grade:1126649508089057352> Black Mamba"
+        }
+    ],
+    "BLMB_NN_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **NINGNING Black Mamba**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/black_mamba/NN_A.png?format=png",
+            "theme": "Black Mamba",
+            "inv": "<:a_grade:1126649781272461413> Black Mamba"
+        }
+    ],
+    "BLMB_NN_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **NINGNING Black Mamba**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/black_mamba/NN_S.png?format=png",
+            "theme": "Black Mamba",
+            "inv": "<:s_grade:1126649890148196504> Black Mamba"
+        }
+    ],
+    "BLMB_NN_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **NINGNING Black Mamba**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/black_mamba/NN_R.png?format=png",
+            "theme": "Black Mamba",
+            "inv": "<:r_grade:1126649980296380457> Black Mamba"
+        }
+    ]
+}
