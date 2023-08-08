@@ -518,5 +518,84 @@
             "theme": "Black Mamba",
             "inv": "<:r_grade:1126649980296380457> Black Mamba"
         }
-    ]
-}
+    ],
+    "NXLV_KR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **KARINA Next Level**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/next_level/KR_C.png?format=png",
+            "theme": "Next Level",
+            "inv": "<:c_grade:1126649406230384671> Next Level"
+        }
+    ],
+    "NXLV_KR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **KARINA Next Level**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/next_level/KR_B.png?format=png",
+            "theme": "Next Level",
+            "inv": "<:b_grade:1126649508089057352> Next Level"
+        }
+    ],
+    "NXLV_KR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **KARINA Next Level**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/next_level/KR_A.png?format=png",
+            "theme": "Next Level",
+            "inv": "<:a_grade:1126649781272461413> Next Level"
+        }
+    ],
+    "NXLV_KR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **KARINA Next Level**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/next_level/KR_S.png?format=png",
+            "theme": "Next Level",
+            "inv": "<:s_grade:1126649890148196504> Next Level"
+        }
+    ],
+    "NXLV_KR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **KARINA Next Level**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/next_level/KR_R.png?format=png",
+            "theme": "Next Level",
+            "inv": "<:r_grade:1126649980296380457> Next Level"
+        }
+    ],
+    "NXLV_WT_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **WINTER Next Level**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/next_level/WT_C.png?format=png",
+            "theme": "Next Level",
+            "inv": "<:c_grade:1126649406230384671> Next Level"
+        }
+    ],
+    "NXLV_WT_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **WINTER Next Level**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/next_level/WT_B.png?format=png",
+            "theme": "Next Level",
+            "inv": "<:b_grade:1126649508089057352> Next Level"
+        }
+    ],
+    "NXLV_WT_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **WINTER Next Level**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/next_level/WT_A.png?format=png",
+            "theme": "Next Level",
+            "inv": "<:a_grade:1126649781272461413> Next Level"
+        }
+    ],
+    "NXLV_WT_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **WINTER Next Level**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/next_level/WT_S.png?format=png",
+            "theme": "Next Level",
+            "inv": "<:s_grade:1126649890148196504> Next Level"
+        }
+    ],
+    "NXLV_WT_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **WINTER Next Level**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/next_level/WT_R.png?format=png",
+            "theme": "Next Level",
+            "inv": "<:r_grade:1126649980296380457> Next Level"
+        }
+    ],
