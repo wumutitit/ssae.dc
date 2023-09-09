@@ -678,5 +678,205 @@
             "theme": "Next Level",
             "inv": "<:r_grade:1126649980296380457> Next Level"
         }
+    ],
+    "NJWY_MJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **NewJeans MINJI What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/MJ_C.png?format=png",
+            "theme": "What's your",
+            "inv": "<:c_grade:1126649406230384671> What's your"
+        }
+    ],
+    "NJWY_MJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **NewJeans MINJI What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/MJ_B.png?format=png",
+            "theme": "What's your",
+            "inv": "<:b_grade:1126649508089057352> What's your"
+        }
+    ],
+    "NJWY_MJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **NewJeans MINJI What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/MJ_A.png?format=png",
+            "theme": "What's your",
+            "inv": "<:a_grade:1126649781272461413> What's your"
+        }
+    ],
+    "NJWY_MJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **NewJeans MINJI What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/MJ_S.png?format=png",
+            "theme": "What's your",
+            "inv": "<:s_grade:1126649890148196504> What's your"
+        }
+    ],
+    "NJWY_MJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **NewJeans MINJI What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/MJ_R.png?format=png",
+            "theme": "What's your",
+            "inv": "<:r_grade:1126649980296380457> What's your"
+        }
+    ],
+    "NJWY_HN_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **NewJeans HANNI What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/HN_C.png?format=png",
+            "theme": "What's your",
+            "inv": "<:c_grade:1126649406230384671> What's your"
+        }
+    ],
+    "NJWY_HN_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **NewJeans HANNI What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/HN_B.png?format=png",
+            "theme": "What's your",
+            "inv": "<:b_grade:1126649508089057352> What's your"
+        }
+    ],
+    "NJWY_HN_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **NewJeans HANNI What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/HN_A.png?format=png",
+            "theme": "What's your",
+            "inv": "<:a_grade:1126649781272461413> What's your"
+        }
+    ],
+    "NJWY_HN_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **NewJeans HANNI What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/HN_S.png?format=png",
+            "theme": "What's your",
+            "inv": "<:s_grade:1126649890148196504> What's your"
+        }
+    ],
+    "NJWY_HN_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **NewJeans HANNI What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/HN_R.png?format=png",
+            "theme": "What's your",
+            "inv": "<:r_grade:1126649980296380457> What's your"
+        }
+    ],
+    "NJWY_DN_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **NewJeans DANIELLE What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/DN_C.png?format=png",
+            "theme": "What's your",
+            "inv": "<:c_grade:1126649406230384671> What's your"
+        }
+    ],
+    "NJWY_DN_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **NewJeans DANIELLE What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/DN_B.png?format=png",
+            "theme": "What's your",
+            "inv": "<:b_grade:1126649508089057352> What's your"
+        }
+    ],
+    "NJWY_DN_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **NewJeans DANIELLE What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/DN_A.png?format=png",
+            "theme": "What's your",
+            "inv": "<:a_grade:1126649781272461413> What's your"
+        }
+    ],
+    "NJWY_DN_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **NewJeans DANIELLE What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/DN_S.png?format=png",
+            "theme": "What's your",
+            "inv": "<:s_grade:1126649890148196504> What's your"
+        }
+    ],
+    "NJWY_DN_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **NewJeans DANIELLE What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/DN_R.png?format=png",
+            "theme": "What's your",
+            "inv": "<:r_grade:1126649980296380457> What's your"
+        }
+    ],
+    "NJWY_HR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **NewJeans HAERIN What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/HR_C.png?format=png",
+            "theme": "What's your",
+            "inv": "<:c_grade:1126649406230384671> What's your"
+        }
+    ],
+    "NJWY_HR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **NewJeans HAERIN What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/HR_B.png?format=png",
+            "theme": "What's your",
+            "inv": "<:b_grade:1126649508089057352> What's your"
+        }
+    ],
+    "NJWY_HR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **NewJeans HAERIN What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/HR_A.png?format=png",
+            "theme": "What's your",
+            "inv": "<:a_grade:1126649781272461413> What's your"
+        }
+    ],
+    "NJWY_HR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **NewJeans HAERIN What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/HR_S.png?format=png",
+            "theme": "What's your",
+            "inv": "<:s_grade:1126649890148196504> What's your"
+        }
+    ],
+    "NJWY_HR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **NewJeans HAERIN What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/HR_R.png?format=png",
+            "theme": "What's your",
+            "inv": "<:r_grade:1126649980296380457> What's your"
+        }
+    ],
+    "NJWY_HY_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **NewJeans HYEIN What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/HY_C.png?format=png",
+            "theme": "What's your",
+            "inv": "<:c_grade:1126649406230384671> What's your"
+        }
+    ],
+    "NJWY_HY_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **NewJeans HYEIN What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/HY_B.png?format=png",
+            "theme": "What's your",
+            "inv": "<:b_grade:1126649508089057352> What's your"
+        }
+    ],
+    "NJWY_HY_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **NewJeans HYEIN What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/HY_A.png?format=png",
+            "theme": "What's your",
+            "inv": "<:a_grade:1126649781272461413> What's your"
+        }
+    ],
+    "NJWY_HY_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **NewJeans HYEIN What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/HY_S.png?format=png",
+            "theme": "What's your",
+            "inv": "<:s_grade:1126649890148196504> What's your"
+        }
+    ],
+    "NJWY_HY_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **NewJeans HYEIN What's your**",
+            "image": "https://krgswtssaenn0705h.sirv.com/SuperStar%20aespa/cards/newjeans/whatsyour/HY_R.png?format=png",
+            "theme": "What's your",
+            "inv": "<:r_grade:1126649980296380457> What's your"
+        }
     ]
 }
